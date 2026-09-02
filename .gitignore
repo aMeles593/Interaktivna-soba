@@ -1,0 +1,17 @@
+# Blender backup datoteke
+*.blend1
+*.blend2
+*.blend3
+*.blend~
+
+# Blender privremene/cache datoteke
+*.blend@
+*.tmp
+
+# Blender autosave
+*.blend.autosave
+
+# OS specifi\u010dne datoteke
+.DS_Store
+Thumbs.db
+desktop.ini
